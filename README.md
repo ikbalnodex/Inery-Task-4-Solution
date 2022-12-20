@@ -133,17 +133,13 @@ git clone <link_clone>
 cd ~/inery-testnet-faucet-tasks
 rm -rf alteregogi
 rm -rf yusuri
+rm -rf .gitignore
 ```
 
 #### Membuat directory project
 ```
 cd ~/inery-testnet-faucet-tasks
 mkdir $IneryAccname
-```
-
-##### Edit file ini, ganti nama alteregogi dengan nama akun inerymu
-```
-nano .gitignore
 ```
 
 #### Lanjut Membuat RPC Solution
@@ -225,6 +221,12 @@ sudo tee $HOME/inery-testnet-faucet-tasks/$IneryAccname/package.json >/dev/null 
     "ineryjs": "github:inery-blockchain/ineryjs"
   }
 }
+EOF
+
+sudo tee $HOME/inery-testnet-faucet-tasks/$IneryAccname/.gitignore >/dev/null <<EOF
+node_modules
+$IneryAccname/.env
+*package-lock.json
 EOF
 
 ```
