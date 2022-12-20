@@ -100,6 +100,26 @@ https://github.com/inery-blockchain/inery-testnet-faucet-tasks
   <img src="https://github.com/Herzarika/Images/blob/main/Frok2.png">
 </p>
 
+<p align="center">
+  <img src="https://github.com/Herzarika/Images/blob/main/Frok3.png">
+</p>
+
+<p align="center">
+  <img src="https://github.com/Herzarika/Images/blob/main/Frok4.png">
+</p>
+
+<p align="center">
+  <img src="https://github.com/Herzarika/Images/blob/main/Frok5.png">
+</p>
+
+<p align="center">
+  <img src="https://github.com/Herzarika/Images/blob/main/Frok6.png">
+</p>
+
+<p align="center">
+  <img src="https://github.com/Herzarika/Images/blob/main/Frok7.png">
+</p>
+
 Klik tanda panah ke bawah di samping tulisan Fork dan klik Create a new fork dan lanjutkan create frok
 
 #### Membuat clone
