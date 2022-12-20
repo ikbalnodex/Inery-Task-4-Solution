@@ -142,7 +142,12 @@ cd ~/inery-testnet-faucet-tasks
 mkdir $IneryAccname
 ```
 
-#### Membuat RPC Solution
+##### Edit file ini, ganti dengan nama akun inerymu
+```
+nano .gitignore
+```
+
+#### Lanjut Membuat RPC Solution
 Langsung aja copy paste command di bawah ini dan gak ada yang dirubah  :
 
 ```
@@ -201,12 +206,6 @@ async function create(id, user, data){
 create(5, account, "Create new Data via JSON RPC")
 EOF
 
-```
-
-#### Membuat Paket Json
-Langsung aja copy paste command di bawah ini dan gak ada yang dirubah  :
-
-```
 sudo tee $HOME/inery-testnet-faucet-tasks/$IneryAccname/package.json >/dev/null <<EOF                                                
 {
   "name": "$IneryAccname-rpc-transaction",
