@@ -92,22 +92,27 @@ export PATH="$PATH:$HOME/inery.cdt/bin:$HOME/inery-node/inery/bin"
 Kunjungi Halaman :
 https://github.com/inery-blockchain/inery-testnet-faucet-tasks
 
+##### Klik tanda panah ke bawah di samping tulisan Fork dan klik Create a new fork 
 <p align="center">
   <img src="https://github.com/Herzarika/Images/blob/main/Frok.png">
 </p>
 
+##### lanjutkan create frok, untuk tanda centang pada tulisan Copy the main branch only, biarkan saja jangan dibuang
 <p align="center">
   <img src="https://github.com/Herzarika/Images/blob/main/Frok2.png">
 </p>
 
+##### Setelah frok jadi, kemudian klik tanda panah ke bawah pada main, kita akan membuat branch baru, dengan nama task4, silahkan tulis task4 dan klik create branch task4 from main.
 <p align="center">
   <img src="https://github.com/Herzarika/Images/blob/main/Frok3.png">
 </p>
 
+##### Klik Setting > Branches
 <p align="center">
   <img src="https://github.com/Herzarika/Images/blob/main/Frok4.png">
 </p>
 
+##### silahkan klik icon tanda panah berlawanan untuk merubah branch, pilih task4 dan klik update, dan lanjutkan dengan klik i understand, update the default branch.
 <p align="center">
   <img src="https://github.com/Herzarika/Images/blob/main/Frok5.png">
 </p>
@@ -116,18 +121,13 @@ https://github.com/inery-blockchain/inery-testnet-faucet-tasks
   <img src="https://github.com/Herzarika/Images/blob/main/Frok6.png">
 </p>
 
+#### Membuat clone
+Berikutnya klik Code warna putih, lanjut klik <> Code warna hijau. Copy link clone dan lanjutkan, jangan lupa <link_clone> ganti dengan link yang kamu copy tadi dan buang tanda <>
 <p align="center">
   <img src="https://github.com/Herzarika/Images/blob/main/Frok7.png">
 </p>
 
-Klik tanda panah ke bawah di samping tulisan Fork dan klik Create a new fork dan lanjutkan create frok
-
-#### Membuat clone
-<p align="center">
-  <img src="https://github.com/Herzarika/Images/blob/main/Clone.png">
-</p>
-
-Klik Code dan Copy link clone dan lanjutkan, jangan lupa <link_clone> ganti dengan link yang kamu copy tadi dan buang tanda <>
+##### Kembali ke VPS
 
 ```
 cd
