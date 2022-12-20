@@ -11,7 +11,7 @@
 Change directory to your directory name
 
 ```shell
-cd ~/inery-testnet-faucet-tasks/$IneryAccname
+cd ~/inery-testnet-faucet-tasks/Nama_akun_inery
 ```
 
 
