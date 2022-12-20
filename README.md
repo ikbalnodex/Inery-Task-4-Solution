@@ -31,13 +31,13 @@ _____________________
 1. Clone the repo
 
    ```
-   git clone https://github.com/amustofalia/inery-testnet-faucet-tasks.git
+   git clone https://github.com/inery-blockchain/ineryjs.git
    ```
 
 2. Change directory to cloned repo
 
    ```
-   cd inery-testnet-faucet-tasks/amustofa
+   cd ineryjs
    ```
 
 3. Install NPM packages
@@ -69,21 +69,58 @@ npm run rpc-example
 
 #### Successful Example
 <p align="center">
-  <img src="https://github.com/SaujanaOK/Images/blob/main/berhasil.png">
+  <img src="https://github.com/Herzarika/Images/blob/main/berhasil.png">
+</p>
+_____________________
+
+# Lanjutan Task 4 Inery Blockchain
+
+### 1. Set nama akun sebagai env variable dan Set PATH env
+
+Agar tidak berulang menulis nama Akun Inery, kita perlu mengatur nama akun sebagai Variable env, silahkan ganti Nama_Akun_Inery dengan Nama Akun Inerymu
+
+```
+cd
+IneryAccname=Nama_Akun_Inery
+```
+```
+export PATH="$PATH:$HOME/inery.cdt/bin:$HOME/inery-node/inery/bin"
+```
+
+### 2. Membuat Frok Task Project
+
+Kunjungi Halaman :
+https://github.com/inery-blockchain/inery-testnet-faucet-tasks
+
+<p align="center">
+  <img src="https://github.com/Herzarika/Images/blob/main/Frok.png">
 </p>
 
-____________________________
+<p align="center">
+  <img src="https://github.com/Herzarika/Images/blob/main/Frok2.png">
+</p>
 
-#Lanjutan Task 4
+Klik tanda panah ke bawah di samping tulisan Fork dan klik Create a new fork dan lanjutkan create frok
+
+#### Membuat clone
+<p align="center">
+  <img src="https://github.com/Herzarika/Images/blob/main/Clone.png">
+</p>
+
+Klik Code dan Copy link clone dan lanjutkan, jangan lupa <link_clone> ganti dengan link yang kamu copy tadi dan buang tanda <>
+
 ```
-cd ~/inery-testnet-faucet-tasks/
+cd
+git clone <link_clone>
+```
+
+#### Membuat directory project
+```
+cd ~/inery-testnet-faucet-tasks
 mkdir $IneryAccname
 ```
-```
-cd ~/inery-testnet-faucet-tasks/$IneryAccname
-```
 
-### Membuat RPC Solution
+#### Membuat RPC Solution
 ```
 sudo tee $HOME/inery-testnet-faucet-tasks/$IneryAccname/solution.mjs >/dev/null <<EOF
 import { Api, JsonRpc, RpcError, JsSignatureProvider } from '../dist/index.js'
@@ -142,7 +179,7 @@ EOF
 
 ```
 
-### Membuat Paket Json
+#### Membuat Paket Json
 ```
 sudo tee $HOME/inery-testnet-faucet-tasks/$IneryAccname/package.json >/dev/null <<EOF                                                
 {
@@ -166,4 +203,8 @@ sudo tee $HOME/inery-testnet-faucet-tasks/$IneryAccname/package.json >/dev/null 
 }
 EOF
 
+```
+
+```
+cd ~/inery-testnet-faucet-tasks/$IneryAccname
 ```
