@@ -131,7 +131,9 @@ git clone <link_clone>
 #### Membuat directory lain
 ```
 cd ~/inery-testnet-faucet-tasks
-rm -rf 
+rm -rf alteregogi
+rm -rf yusuri
+rm -rf .gitignore
 ```
 
 #### Membuat directory project
