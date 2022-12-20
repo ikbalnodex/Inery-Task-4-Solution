@@ -142,7 +142,7 @@ cd ~/inery-testnet-faucet-tasks
 mkdir $IneryAccname
 ```
 
-##### Edit file ini, ganti dengan nama akun inerymu
+##### Edit file ini, ganti nama alteregogi dengan nama akun inerymu
 ```
 nano .gitignore
 ```
