@@ -99,7 +99,7 @@ https://github.com/inery-blockchain/inery-testnet-faucet-tasks
 
 ##### lanjutkan create frok, dan buang tanda centang
 <p align="center">
-  <img src="https://github.com/asabigbos/Images/blob/main/centang.png">
+  <img src="https://github.com/asabigbos/Images/blob/main/Frok2.png">
 </p>
 
 ##### Klik Setting > Branches
@@ -127,6 +127,11 @@ Berikutnya klik Code warna putih, lanjut klik <> Code warna hijau. Copy link clo
 ```
 cd
 git clone <link_clone>
+```
+#### Membuat directory lain
+```
+cd ~/inery-testnet-faucet-tasks
+rm -rf 
 ```
 
 #### Membuat directory project
