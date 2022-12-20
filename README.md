@@ -121,6 +121,8 @@ mkdir $IneryAccname
 ```
 
 #### Membuat RPC Solution
+Langsung aja copy paste command di bawah ini dan gak ada yang dirubah  :
+
 ```
 sudo tee $HOME/inery-testnet-faucet-tasks/$IneryAccname/solution.mjs >/dev/null <<EOF
 import { Api, JsonRpc, RpcError, JsSignatureProvider } from '../dist/index.js'
@@ -180,6 +182,8 @@ EOF
 ```
 
 #### Membuat Paket Json
+Langsung aja copy paste command di bawah ini dan gak ada yang dirubah  :
+
 ```
 sudo tee $HOME/inery-testnet-faucet-tasks/$IneryAccname/package.json >/dev/null <<EOF                                                
 {
@@ -204,7 +208,24 @@ sudo tee $HOME/inery-testnet-faucet-tasks/$IneryAccname/package.json >/dev/null 
 EOF
 
 ```
-
+#### Edit file README
 ```
 cd ~/inery-testnet-faucet-tasks/$IneryAccname
+nano README.md
 ```
+
+#### Upload ke github
+```
+cd ~/inery-testnet-faucet-tasks/
+git add .
+```
+```
+git commit -m "task 4 solution inery : $IneryAccname"
+```
+```
+git branch -M task4
+```
+```
+git push -u origin task4
+```
+Lanjutkan dengan login akun githubmu..
