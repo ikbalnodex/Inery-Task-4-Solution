@@ -233,7 +233,7 @@ EOF
 cd ~/inery-testnet-faucet-tasks/$IneryAccname
 nano README.md
 ```
-Nah contohnya silahkan liat [di sini](https://raw.githubusercontent.com/asabigbos/Inery-Task-4-Solution/main/Contoh_Readme.txt), Copy aja, ganti Nama_Akun_Inery dengan nama akun inerymu.
+Nah contohnya silahkan liat [di sini](https://raw.githubusercontent.com/asabigbos/Inery-Task-4-Solution/main/Contoh_Readme.txt), Copy aja, ganti Nama_Akun_Inery dengan nama akun inerymu. dan sebaiknya modivikasi dengan kata-katamu, agar gak keliatan duplikat banget..
 
 #### Upload ke github
 ```
