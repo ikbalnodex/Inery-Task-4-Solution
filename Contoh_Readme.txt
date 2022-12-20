@@ -8,10 +8,10 @@
 
 ### How to run
 
-Change directory to ```Nama_Akun_Inery```
+Change directory to your directory name
 
 ```shell
-cd ./Nama_Akun_Inery
+cd ~/inery-testnet-faucet-tasks/$IneryAccname
 ```
 
 
