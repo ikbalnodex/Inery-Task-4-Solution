@@ -307,3 +307,26 @@ Silahkan klik setting > Developer settings > Personal access tokens > Token (cla
 </p>
 
 _____________________
+
+# How to run RPC
+
+Change directory to your directory
+
+```shell
+cd ~/inery-testnet-faucet-tasks/$IneryAccname
+```
+
+Install dependencies
+
+```shell
+npm install
+```
+
+Run the script
+
+```
+npm run solution
+```
+
+
+_____________________
