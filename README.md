@@ -133,7 +133,6 @@ git clone <link_clone>
 cd ~/inery-testnet-faucet-tasks
 rm -rf alteregogi
 rm -rf yusuri
-rm -rf .gitignore
 ```
 
 #### Membuat directory project
