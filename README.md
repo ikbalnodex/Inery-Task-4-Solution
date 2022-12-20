@@ -213,38 +213,7 @@ EOF
 cd ~/inery-testnet-faucet-tasks/$IneryAccname
 nano README.md
 ```
-```
-### Prerequisite
-
-- [NodeJS](https://nodejs.org/en/)
-
-- NPM
-
-
-
-### How to run
-
-Change directory to ```Nama_Akun_Inery```
-
-```shell
-cd ./Nama_Akun_Inery
-```
-
-
-Install dependencies
-
-```shell
-npm install
-```
-
-
-
-Run the script
-
-```
-npm run solution
-```
-```
+Nah contohnya silahkan liat [di sini](https://raw.githubusercontent.com/asabigbos/Inery-Task-4-Solution/main/Contoh_Readme.txt), Copy aja, ganti Nama_Akun_Inery dengan nama akun inerymu.
 
 #### Upload ke github
 ```
