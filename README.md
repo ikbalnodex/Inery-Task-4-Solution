@@ -69,7 +69,7 @@ npm run rpc-example
 
 #### Successful Example
 <p align="center">
-  <img src="https://github.com/Herzarika/Images/blob/main/berhasil.png">
+  <img src="https://github.com/asabigbos/Images/blob/main/berhasil.png">
 </p>
 _____________________
 
@@ -94,37 +94,32 @@ https://github.com/inery-blockchain/inery-testnet-faucet-tasks
 
 ##### Klik tanda panah ke bawah di samping tulisan Fork dan klik Create a new fork 
 <p align="center">
-  <img src="https://github.com/Herzarika/Images/blob/main/Frok.png">
+  <img src="https://github.com/asabigbos/Images/blob/main/Frok.png">
 </p>
 
-##### lanjutkan create frok, untuk tanda centang pada tulisan Copy the main branch only, biarkan saja jangan dibuang
+##### lanjutkan create frok, dan buang tanda centang
 <p align="center">
-  <img src="https://github.com/Herzarika/Images/blob/main/Frok2.png">
-</p>
-
-##### Setelah frok jadi, kemudian klik tanda panah ke bawah pada main, kita akan membuat branch baru, dengan nama task4, silahkan tulis task4 dan klik create branch task4 from main.
-<p align="center">
-  <img src="https://github.com/Herzarika/Images/blob/main/Frok3.png">
+  <img src="https://github.com/asabigbos/Images/blob/main/centang.png">
 </p>
 
 ##### Klik Setting > Branches
 <p align="center">
-  <img src="https://github.com/Herzarika/Images/blob/main/Frok4.png">
+  <img src="https://github.com/asabigbos/Images/blob/main/Frok4.png">
 </p>
 
 ##### silahkan klik icon tanda panah berlawanan untuk merubah branch, pilih task4 dan klik update, dan lanjutkan dengan klik i understand, update the default branch.
 <p align="center">
-  <img src="https://github.com/Herzarika/Images/blob/main/Frok5.png">
+  <img src="https://github.com/asabigbos/Images/blob/main/Frok5.png">
 </p>
 
 <p align="center">
-  <img src="https://github.com/Herzarika/Images/blob/main/Frok6.png">
+  <img src="https://github.com/asabigbos/Images/blob/main/Frok6.png">
 </p>
 
 #### Membuat clone
 Berikutnya klik Code warna putih, lanjut klik <> Code warna hijau. Copy link clone dan lanjutkan, jangan lupa <link_clone> ganti dengan link yang kamu copy tadi dan buang tanda <>
 <p align="center">
-  <img src="https://github.com/Herzarika/Images/blob/main/Frok7.png">
+  <img src="https://github.com/asabigbos/Images/blob/main/Frok7.png">
 </p>
 
 ##### Kembali ke VPS
@@ -254,18 +249,18 @@ Lanjutkan dengan login akun githubmu..
 ### 8.  Kembali lagi ke Github
 1. Silahkan Refresh repository Fork yang dibuat di step 2 tadi, lalu click commit ahead 
 <p align="center">
-  <img src="https://github.com/Herzarika/Images/blob/main/merge1.png">
+  <img src="https://github.com/asabigbos/Images/blob/main/merge1.png">
 </p>
 
 2. Lanjutkan Create pull request
 <p align="center">
-  <img src="https://github.com/Herzarika/Images/blob/main/merge2.png">
-  <img src="https://github.com/Herzarika/Images/blob/main/merge3.png">
+  <img src="https://github.com/asabigbos/Images/blob/main/merge2.png">
+  <img src="https://github.com/asabigbos/Images/blob/main/merge3.png">
 </p>
 
 3. Check hasilnya di https://github.com/inery-blockchain/inery-testnet-faucet-tasks
 <p align="center">
-  <img src="https://github.com/Herzarika/Images/blob/main/check.png">
+  <img src="https://github.com/asabigbos/Images/blob/main/check.png">
 </p>
 
 ### Done
@@ -283,27 +278,27 @@ jika tidak dapat terhubung dengan github dan dianggap salah sandi, bisa pake tok
 Silahkan klik setting > Developer settings > Personal access tokens > Token (classic) > Generate a personal acces token. Dan silahkan copy, juga sebaiknya simpan aja di databasemu, bisa di notepad atau excel, agar berguna lagi sewaktu-waktu di kemudian hari, biar gak perlu buat-buat lagi.
 
 <p align="center">
-  <img src="https://github.com/Herzarika/Images/blob/main/Setting1.png">
+  <img src="https://github.com/asabigbos/Images/blob/main/Setting1.png">
 </p>
 
 <p align="center">
-  <img src="https://github.com/Herzarika/Images/blob/main/setting2.png">
+  <img src="https://github.com/asabigbos/Images/blob/main/setting2.png">
 </p>
 
 <p align="center">
-  <img src="https://github.com/Herzarika/Images/blob/main/token.png">
+  <img src="https://github.com/asabigbos/Images/blob/main/token.png">
 </p>
 
 <p align="center">
-  <img src="https://github.com/Herzarika/Images/blob/main/kasihnama.png">
+  <img src="https://github.com/asabigbos/Images/blob/main/kasihnama.png">
 </p>
 
 <p align="center">
-  <img src="https://github.com/Herzarika/Images/blob/main/token2.png">
+  <img src="https://github.com/asabigbos/Images/blob/main/token2.png">
 </p>
 
 <p align="center">
-  <img src="https://github.com/Herzarika/Images/blob/main/simpan.png">
+  <img src="https://github.com/asabigbos/Images/blob/main/simpan.png">
 </p>
 
 _____________________
