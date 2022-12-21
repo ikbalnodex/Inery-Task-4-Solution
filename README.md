@@ -243,7 +243,7 @@ cd ~/inery-testnet-faucet-tasks/
 git add .
 ```
 ```
-git commit -m "task 4 solution inery : $IneryAccname"
+git commit -m "$IneryAccname"
 ```
 ```
 git branch -M task4
