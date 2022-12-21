@@ -77,12 +77,16 @@ _____________________
 
 ### 1. Set nama akun sebagai env variable dan Set PATH env
 
-Agar tidak berulang menulis nama Akun Inery, kita perlu mengatur nama akun sebagai Variable env, silahkan ganti Nama_Akun_Inery dengan Nama Akun Inerymu
+Agar tidak berulang menulis nama Akun Inery dan agar URL githubnya valid, kita perlu mengatur nama akun sebagai Variable env, silahkan ganti Nama_Akun_Inery dengan Nama Akun Inerymu, dan Username_Github ganti dengan username akun githubmu.
 
 ```
 cd
 IneryAccname=Nama_Akun_Inery
 ```
+```
+UserGT=Username_Github
+```
+
 ```
 export PATH="$PATH:$HOME/inery.cdt/bin:$HOME/inery-node/inery/bin"
 ```
@@ -207,9 +211,9 @@ sudo tee $HOME/inery-testnet-faucet-tasks/$IneryAccname/package.json >/dev/null 
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/$IneryAccname/inery-testnet-faucet-tasks"
+    "url": "https://github.com/$UserGT/inery-testnet-faucet-tasks"
   },
-  "homepage": "https://github.com/$IneryAccname/inery-testnet-faucet-tasks",
+  "homepage": "https://github.com/$UserGT/inery-testnet-faucet-tasks",
   "dependencies": {
     "ineryjs": "github:inery-blockchain/ineryjs"
   }
@@ -325,3 +329,6 @@ npm run solution
 
 
 _____________________
+
+# Source :
+https://github.com/alteregogi
