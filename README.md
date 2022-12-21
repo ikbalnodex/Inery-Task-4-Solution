@@ -128,7 +128,7 @@ Berikutnya klik Code warna putih, lanjut klik <> Code warna hijau. Copy link clo
 cd
 git clone <link_clone>
 ```
-#### Membuat directory lain
+#### Menghapus directory lain
 ```
 cd ~/inery-testnet-faucet-tasks
 rm -rf alteregogi
