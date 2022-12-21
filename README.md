@@ -128,15 +128,8 @@ Berikutnya klik Code warna putih, lanjut klik <> Code warna hijau. Copy link clo
 cd
 git clone <link_clone>
 ```
-#### Menghapus directory lain
-```
-cd ~/inery-testnet-faucet-tasks
-rm -rf alteregogi
-rm -rf yusuri
-rm -rf .gitignore
-```
-
-#### Membuat directory project
+#### Membuat directory dengan nama akun inery.
+Btw, untuk folder directory orang lain, abaikan saja, jangan di hapus. cukup fokus ke folder directory kita saja.
 ```
 cd ~/inery-testnet-faucet-tasks
 mkdir $IneryAccname
