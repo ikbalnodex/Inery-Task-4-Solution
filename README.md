@@ -252,6 +252,13 @@ git push -u origin task4
 ```
 Lanjutkan dengan login akun githubmu..
 
+Note :
+Setelah kelar diupload ke github, kalau mau ngapus directory yang dibuat tadi, pake command ini :
+```
+cd
+rm -rf inery-testnet-faucet-tasks
+```
+
 ### 8.  Kembali lagi ke Github
 1. Silahkan Refresh repository Fork yang dibuat di step 2 tadi, lalu click commit ahead 
 <p align="center">
