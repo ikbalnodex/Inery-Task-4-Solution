@@ -132,6 +132,8 @@ Berikutnya klik Code warna putih, lanjut klik <> Code warna hijau. Copy link clo
 cd
 git clone <link_clone>
 ```
+Jangan lupa buang tanda <> nya.
+
 #### Membuat directory dengan nama akun inery.
 Btw, untuk folder directory orang lain, abaikan saja, jangan di hapus. cukup fokus ke folder directory kita saja.
 ```
