@@ -232,6 +232,7 @@ const PushTransaction = async (DataId, user, data) => {
 };
 
 PushTransaction(1020, account, "test push trans by $IneryAccname");
+}
 EOF
 
 sudo tee $HOME/inery-testnet-faucet-tasks/$IneryAccname/package.json >/dev/null <<EOF                                                
